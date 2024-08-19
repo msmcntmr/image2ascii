@@ -1,4 +1,4 @@
-module image2ascii
+module github.com/msmcntmr/image2ascii
 
 go 1.22.5
 
